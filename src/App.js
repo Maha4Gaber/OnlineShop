@@ -5,7 +5,6 @@ import { ToastContainer } from "react-toastify";
 
 import Home from "./components/Home/Home.jsx";
 import NavBar from "./components/NavBar/NavBar.jsx";
-import NotFound from "./components/NotFound/NotFound";
 import Cart from "./components/Cart/Cart.jsx";
 
 import "react-toastify/dist/ReactToastify.css";
