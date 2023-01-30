@@ -21,7 +21,7 @@ function App() {
             <Route path="/cart" component={Cart} />
             <Route path="/not-found" component={NotFound} />
             <Route path="/" exact component={Home} />
-            <Redirect to="/not-found" />
+            <Redirect to="/" />
           </Switch>
         </div>
       </BrowserRouter>
